@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @floralandfaded
+- 👋 Hi, I’m Tamara
 - 👀 I’m interested in creating small side projects at the moment
 - 🌱 I’m currently interested in embedded systems!
 - 💞️ I’m looking to collaborate on ...
